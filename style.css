@@ -1,3 +1,11 @@
-.SAbout {
-  text-align: center; 
+body {
+  text-align: left;
+  margin-left: 256px;
+  margin-right: 256px;
 }
+
+.Proyects {
+  text-align: center;
+}
+
+
