@@ -1,27 +1,37 @@
 * {
   padding: 0px;
   margin: 0px;
-  font-family: helvetica;
 }
 
 body {
   background-color: #000000;
   color: #ffffff;
   text-align: left;
-  margin-left: 256px;
-  margin-right: 256px;
 }
 
 .head {
-  margin-top: 350px;
-  margin-bottom: 128px;
+  display: block;
+  padding: 12px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  margin-left: 16px;
+  margin-right: 16px;
   font-size: 32px;
-  margin-left: -232px;
+  width: auto;
+  height: 445px;
+  background-color: #0f0f0f;
+  border-radius: 20px;
+}
+
+.text {
+  margin-top: 305px;
+  margin-bottom: 12px;
+  margin-right: 480px;
 }
 
 .image1 {
   position: absolute;
-  top: 10px;
+  top: 24px;
   right: 24px;   
   display: flex;
   width: 440px;
