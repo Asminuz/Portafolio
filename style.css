@@ -23,13 +23,13 @@ body {
   border-radius: 20px;
 }
 
-.text {
+.head-text {
   margin-top: 305px;
   margin-bottom: 12px;
   margin-right: 480px;
 }
 
-.image1 {
+.head-image {
   position: absolute;
   top: 24px;
   right: 24px;   
@@ -38,7 +38,23 @@ body {
   height: 440px;
 }
 
+.primaryContent {
+  text-align: center;
+  margin-left: 256px;
+  margin-right: 256px;
+  font-size: 20px;
+}
+
 .proyects {
   text-align: center;
+}
+
+a{
+  border-radius: 5px;
+  padding: 10px 7px;
+  text-decoration: none;
+  color: #fff;
+  background-color: #333;
+  margin: 12px;
 }
 
